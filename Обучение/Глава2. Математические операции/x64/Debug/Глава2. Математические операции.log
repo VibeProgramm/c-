@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Глава2. Математические операции.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Глава2. Математические операции.vcxproj -> C:\Users\Алексей\OneDrive\Documents\программирование\С++\Обучение\x64\Debug\Глава 2. Математические операции.exe

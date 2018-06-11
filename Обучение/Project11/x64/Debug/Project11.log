@@ -1,0 +1,5 @@
+﻿  console application c++.cpp
+c:\users\алексей\onedrive\documents\программирование\с++\обучение\project11\console application c++.cpp(2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\алексей\onedrive\documents\программирование\с++\обучение\project11\console application c++.cpp(2): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "гласит"
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2361): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.12.25827\include\sal.h(2361): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)

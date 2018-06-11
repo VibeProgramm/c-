@@ -1,0 +1,3 @@
+﻿  console application c++.cpp
+c:\users\алексей\onedrive\documents\программирование\с++\обучение\вывод строки в обратном порядке\console application c++.cpp(8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  вывод строки в обратном порядке.vcxproj -> C:\Users\Алексей\OneDrive\Documents\программирование\С++\Обучение\x64\Debug\вывод строки в обратном порядке.exe

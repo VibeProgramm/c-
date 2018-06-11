@@ -1,0 +1,10 @@
+﻿  console application c++.cpp
+d:\yandexdisk\программирование\с++\классы\урок 3. дз 1 рациональные дроби\fractions.h(51): warning C4101: NOD: неиспользованная локальная переменная
+  fractions.cpp
+d:\yandexdisk\программирование\с++\классы\урок 3. дз 1 рациональные дроби\fractions.h(51): warning C4101: NOD: неиспользованная локальная переменная
+  Создание кода
+  79 of 82 functions (96.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Урок 3. ДЗ 1 Рациональные дроби.vcxproj -> D:\YandexDisk\программирование\С++\Классы\x64\Release\Урок 3. ДЗ 1 Рациональные дроби.exe

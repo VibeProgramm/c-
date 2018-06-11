@@ -1,0 +1,4 @@
+﻿  console application c++.cpp
+figura.obj : error LNK2005: "public: __cdecl Programm::kvadrat::kvadrat(void)" (??0kvadrat@Programm@@QEAA@XZ) уже определен в console application c++.obj
+figura.obj : error LNK2005: "public: __cdecl Programm::kvadrat::~kvadrat(void)" (??1kvadrat@Programm@@QEAA@XZ) уже определен в console application c++.obj
+D:\YandexDisk\программирование\С++\Классы\x64\Debug\Урок 4 ДЗ.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

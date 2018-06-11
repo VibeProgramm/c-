@@ -1,0 +1,4 @@
+﻿  console application c++.cpp
+c:\users\aleks\onedrive\documents\программирование\с++\markov denis\урок 11. крестики нолики\console application c++.cpp(115): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LINK : не найден или не выполнена сборка C:\Users\aleks\OneDrive\Documents\программирование\С++\Markov Denis\x64\Debug\Урок 11. Крестики нолики.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Урок 11. Крестики нолики.vcxproj -> C:\Users\aleks\OneDrive\Documents\программирование\С++\Markov Denis\x64\Debug\Урок 11. Крестики нолики.exe

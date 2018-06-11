@@ -1,0 +1,5 @@
+﻿  Account.cpp
+  console application c++.cpp
+d:\yandexdisk\программирование\с++\классы\ооп\console application c++.cpp(13): warning C4930: Program::Account c(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+  Создание кода...
+  ООП.vcxproj -> D:\YandexDisk\программирование\С++\Классы\x64\Debug\ООП.exe

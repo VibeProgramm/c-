@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\денис\desktop\videotutorials\программы\23. наследование\23. наследование\source.cpp(140): warning C4018: '<=' : signed/unsigned mismatch
+c:\users\денис\desktop\videotutorials\программы\23. наследование\23. наследование\source.cpp(166): warning C4244: 'argument' : conversion from 'double' to 'ui', possible loss of data
+  23. Наследование.vcxproj -> C:\Users\Денис\Desktop\videoTutorials\программы\23. Наследование\Debug\23. Наследование.exe

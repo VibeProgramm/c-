@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Урок 15. ДЗ.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  console application c++.cpp
+  console application c++1.cpp
+c:\users\aleks\onedrive\documents\программирование\с++\markov denis\урок 15. дз\console application c++1.cpp(5): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+  Создание кода...

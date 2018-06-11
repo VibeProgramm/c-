@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\денис\desktop\крестики нолики\project3\source.cpp(116): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project3.vcxproj -> C:\Users\Денис\Desktop\крестики нолики\Debug\Project3.exe

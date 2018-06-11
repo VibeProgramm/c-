@@ -1,0 +1,9 @@
+﻿  Source.cpp
+Source.cpp(73): error C2059: syntax error : 'if'
+          Source.cpp(97) : see reference to function template instantiation 'T Find<int*,int>(T,T1,int,int)' being compiled
+          with
+          [
+              T=int *,
+              T1=int
+          ]
+Source.cpp(74): error C2143: syntax error : missing ';' before ')'

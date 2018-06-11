@@ -1,0 +1,3 @@
+﻿  console application c++.cpp
+d:\onedrive\documents\программирование\с++\markov denis\урок 17. рекурсия\console application c++.cpp(64): warning C4715: Find<int * __ptr64,int>: значение возвращается не при всех путях выполнения
+  Урок 17. Рекурсия.vcxproj -> D:\OneDrive\Documents\программирование\С++\Markov Denis\x64\Debug\Урок 17. Рекурсия ДЗ.exe

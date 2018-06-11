@@ -1,0 +1,7 @@
+﻿  console application c++.cpp
+c:\users\aleks\onedrive\documents\программирование\с++\markov denis\факториал\console application c++.cpp(5): error C2084: функция "long double fact(int)" уже имеет текст реализации
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\std_lib_facilities.h(59): note: см. предыдущее определение "fact"
+c:\users\aleks\onedrive\documents\программирование\с++\markov denis\факториал\console application c++.cpp(11): error C2568: *: не удается разрешить перегрузку функции
+  c:\users\aleks\onedrive\documents\программирование\с++\markov denis\факториал\console application c++.cpp(11): note: может быть "long double fact(int)"
+c:\users\aleks\onedrive\documents\программирование\с++\markov denis\факториал\console application c++.cpp(18): error C2568: <<: не удается разрешить перегрузку функции
+  c:\users\aleks\onedrive\documents\программирование\с++\markov denis\факториал\console application c++.cpp(18): note: может быть "long double fact(int)"

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2. Переменные", "2. Переменные\2. Переменные.vcxproj", "{1D3D00A6-9383-4235-904A-65D83A06E3CA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tempr", "Tempr\Tempr.vcxproj", "{6B492148-8346-4E78-84F5-AB30869DFB6F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dollar", "Dollar\Dollar.vcxproj", "{609A127E-ABEB-4653-BAEB-8D954E556ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D3D00A6-9383-4235-904A-65D83A06E3CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D3D00A6-9383-4235-904A-65D83A06E3CA}.Debug|Win32.Build.0 = Debug|Win32
+		{1D3D00A6-9383-4235-904A-65D83A06E3CA}.Release|Win32.ActiveCfg = Release|Win32
+		{1D3D00A6-9383-4235-904A-65D83A06E3CA}.Release|Win32.Build.0 = Release|Win32
+		{6B492148-8346-4E78-84F5-AB30869DFB6F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B492148-8346-4E78-84F5-AB30869DFB6F}.Debug|Win32.Build.0 = Debug|Win32
+		{6B492148-8346-4E78-84F5-AB30869DFB6F}.Release|Win32.ActiveCfg = Release|Win32
+		{6B492148-8346-4E78-84F5-AB30869DFB6F}.Release|Win32.Build.0 = Release|Win32
+		{609A127E-ABEB-4653-BAEB-8D954E556ECE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{609A127E-ABEB-4653-BAEB-8D954E556ECE}.Debug|Win32.Build.0 = Debug|Win32
+		{609A127E-ABEB-4653-BAEB-8D954E556ECE}.Release|Win32.ActiveCfg = Release|Win32
+		{609A127E-ABEB-4653-BAEB-8D954E556ECE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

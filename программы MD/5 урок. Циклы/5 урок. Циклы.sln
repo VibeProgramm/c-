@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5 урок. Циклы", "5 урок. Циклы\5 урок. Циклы.vcxproj", "{F7846B28-1B55-46A4-934B-D0D34A383A3A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.2 Степени 2", "Project1\Project1.vcxproj", "{E39947C8-5660-4253-A4A3-F04AE36C18D0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.3 Gcd lcm", "5.3 Gcd lcm\5.3 Gcd lcm.vcxproj", "{48AD9A94-89B5-4C11-BB43-83F3DFB41E89}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.4 Loop", "5.4 Loop\5.4 Loop.vcxproj", "{8607999E-6AEB-43BB-97EE-70206919F41D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7846B28-1B55-46A4-934B-D0D34A383A3A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F7846B28-1B55-46A4-934B-D0D34A383A3A}.Debug|Win32.Build.0 = Debug|Win32
+		{F7846B28-1B55-46A4-934B-D0D34A383A3A}.Release|Win32.ActiveCfg = Release|Win32
+		{F7846B28-1B55-46A4-934B-D0D34A383A3A}.Release|Win32.Build.0 = Release|Win32
+		{E39947C8-5660-4253-A4A3-F04AE36C18D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E39947C8-5660-4253-A4A3-F04AE36C18D0}.Debug|Win32.Build.0 = Debug|Win32
+		{E39947C8-5660-4253-A4A3-F04AE36C18D0}.Release|Win32.ActiveCfg = Release|Win32
+		{E39947C8-5660-4253-A4A3-F04AE36C18D0}.Release|Win32.Build.0 = Release|Win32
+		{48AD9A94-89B5-4C11-BB43-83F3DFB41E89}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48AD9A94-89B5-4C11-BB43-83F3DFB41E89}.Debug|Win32.Build.0 = Debug|Win32
+		{48AD9A94-89B5-4C11-BB43-83F3DFB41E89}.Release|Win32.ActiveCfg = Release|Win32
+		{48AD9A94-89B5-4C11-BB43-83F3DFB41E89}.Release|Win32.Build.0 = Release|Win32
+		{8607999E-6AEB-43BB-97EE-70206919F41D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8607999E-6AEB-43BB-97EE-70206919F41D}.Debug|Win32.Build.0 = Debug|Win32
+		{8607999E-6AEB-43BB-97EE-70206919F41D}.Release|Win32.ActiveCfg = Release|Win32
+		{8607999E-6AEB-43BB-97EE-70206919F41D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
